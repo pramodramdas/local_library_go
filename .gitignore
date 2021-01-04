@@ -3,3 +3,4 @@ Gopkg.lock
 Gopkg.toml
 .env
 .vscode
+info.txt
